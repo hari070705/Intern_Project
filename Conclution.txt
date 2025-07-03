@@ -1,0 +1,25 @@
+🔴Cluster 0 (Red):
+Mid income (~40–70k)
+Mid spending
+~These are average customers, steady and reliable.
+~Good for consistent revenue, maybe reward them to increase loyalty.
+
+🟢Cluster 1 (Green):
+Low income, but very high spending
+~This group is interesting — they spend a lot despite low income.
+~Target with EMIs, discounts, and offers. Very aspirational buyers.
+
+🔵 Cluster 2 (Blue):
+High income, high spending
+~Your premium customer segment!
+~Focus on personalized service, luxury products, loyalty cards.
+
+🔵 Cluster 3 (Cyan):
+High income, but low spending
+~These people can spend — but they don’t.
+~Target with exclusive limited-time offers to convert them.
+
+🟣 Cluster 4 (Pink):
+Low income, low spending
+~Budget-sensitive customers.
+~Not high priority for luxury promotions. Push basic offers or bundles.
